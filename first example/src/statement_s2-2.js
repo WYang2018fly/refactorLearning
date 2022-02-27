@@ -110,5 +110,5 @@ function usd(aNumber) {
   }
 } */
 
-export default statement;
+export { statement, htmlStatement };
 
